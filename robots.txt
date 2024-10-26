@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifiqiudu.github.io/sitemap_index.ifiqiudu
